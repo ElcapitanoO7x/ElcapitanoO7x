@@ -50,13 +50,13 @@
 
 <div align="center">
 
-<a href= https://github.com/ze2paac> <img width ='65px' src ='./icons/bash.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='icons/mysql.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='65px' src ='./icons/1github.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='./icone/bash.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='icone/mysql.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='65px' src ='./icone/1github.svg'></a>
 
 </div>
 
@@ -68,33 +68,33 @@
 
 <div align="center">
 
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/nmap/images/nmap-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/dirb/images/dirb-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wpscan/images/wpscan-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/jsql/images/jsql-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wafw00f/images/wafw00f-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/nikto/images/nikto-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/medusa/images/medusa-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/hydra/images/hydra-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/john/images/john-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/veil/images/veil-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/binwalk/images/binwalk-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/foremost/images/foremost-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/commix/images/commix-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/whatweb/images/whatweb-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/crunch/images/crunch-logo.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.kali.org/tools/maltego/images/maltego-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/nmap/images/nmap-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/dirb/images/dirb-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/wpscan/images/wpscan-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/jsql/images/jsql-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/wafw00f/images/wafw00f-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/nikto/images/nikto-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/medusa/images/medusa-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/hydra/images/hydra-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/john/images/john-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/veil/images/veil-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/binwalk/images/binwalk-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/foremost/images/foremost-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/commix/images/commix-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/whatweb/images/whatweb-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/crunch/images/crunch-logo.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.kali.org/tools/maltego/images/maltego-logo.svg'></a>
 
 </div>
 
@@ -106,12 +106,12 @@
 
 <div align="center">
 
-<a href= https://github.com/ze2paac> <img width ='70px' src ='icons/linux.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='69px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834'></a>
-<a href= https://github.com/ze2paac> <img width ='64px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001'></a>
-<a href= https://github.com/ze2paac> <img width ='62px' src ='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://www.debian.org/logos/openlogo-nd.svg'></a>
-<a href= https://github.com/ze2paac> <img width ='60px' src ='https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-inverted-notagline.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='70px' src ='icone/linux.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='69px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='64px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='62px' src ='https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://www.debian.org/logos/openlogo-nd.svg'></a>
+<a href= https://github.com/ElcapitanoO7x> <img width ='60px' src ='https://tails.boum.org/contribute/how/promote/material/logo/tails-logo-square-inverted-notagline.svg'></a>
 
 </div>
 
@@ -121,14 +121,14 @@
 
 <div align="center">
   
-<a href = 'https://linkedin.com/in/ze2pac' target="_blank"> <img width = '80px' align= 'center' src="./icons/linkedin.svg"/></a>
-<a href = 'https://twitter.com/ze2paac' target="_blank"> <img width = '80px' align= 'center' src="./icons/twitter.svg"/></a>
-<a href = 'https://www.github.com/ze2paac' target="_blank"> <img width = '80px' align= 'center' src='./icons/github.svg'/></a>
-<a href = 'https://www.facebook.com/ze2paac' target="_blank"> <img width = '80px' align= 'center' src='./icons/facebook.svg'/></a>
-<a href = 'https://t.me/ze2paac' target="_blank"> <img width = '80px' align= 'center' src='./icons/telegram.svg'/></a>
-<a href = 'http://wa.me/+201146338980' target="_blank"> <img width = '80px' align= 'center' src='./icons/whatsapp.svg'/></a>
-<a href = 'mailto:ze2paac@gmail.com' target="_blank"> <img width = '80px' align= 'center' src='./icons/gmail.svg'/></a>
-<a href = 'https://tryhackme.com/p/ze2paac' target="_blank"> <img width = '75px' align= 'center' src="./icons/tryhackme.svg"/></a>
+<a href = 'https://www.linkedin.com/in/mohamed-ashraf-13208321b/' target="_blank"> <img width = '80px' align= 'center' src="./icone/linkedin.svg"/></a>
+<a href = 'https://twitter.com/ElcapitanoO7x' target="_blank"> <img width = '80px' align= 'center' src="./icone/twitter.svg"/></a>
+<a href = 'https://github.com/ElcapitanoO7x' target="_blank"> <img width = '80px' align= 'center' src='./icone/github.svg'/></a>
+<a href = 'https://www.facebook.com/a01022980428' target="_blank"> <img width = '80px' align= 'center' src='./icone/facebook.svg'/></a>
+<a href = 'https://t.me/El_capitanoo14' target="_blank"> <img width = '80px' align= 'center' src='./icone/telegram.svg'/></a>
+<a href = 'http://wa.me/+201061575154' target="_blank"> <img width = '80px' align= 'center' src='./icone/whatsapp.svg'/></a>
+<a href = 'mailto:elcapitanomedooo@gmail.com' target="_blank"> <img width = '80px' align= 'center' src='./icone/gmail.svg'/></a>
+<a href = 'https://tryhackme.com/p/Elcapitano' target="_blank"> <img width = '75px' align= 'center' src="./icone/tryhackme.svg"/></a>
   
 </div>
 
@@ -138,9 +138,9 @@
 
 <div align="center">
 
-<img src='https://github-readme-stats.vercel.app/api?username=ze2paac&show_icons=true&theme=merko' width="600"/>
+<img src='https://github-readme-stats.vercel.app/api?username=ElcapitanoO7x&show_icons=true&theme=merko' width="600"/>
   
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=ze2paac&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=ElcapitanoO7x&theme=merko&date_format=M%20j%5B%2C%20Y%5D' width="600"/>
 
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=ze2paac&theme=chartreuse-dark" width="100%">-->
 
@@ -161,4 +161,3 @@
  
 <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
 
-1
